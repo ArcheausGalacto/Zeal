@@ -1,0 +1,1 @@
+*rule* Don't stray from the workspace folder *rule*

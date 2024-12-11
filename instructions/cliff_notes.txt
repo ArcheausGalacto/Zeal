@@ -1,0 +1,28 @@
+- Working on a prime number generating algorithm.
+- Filenames for work in progress scripts: `prime_generator.py` and `test_primes.py`.
+- The task is to write a prime number generating algorithm.
+- The goal is to determine the names of any output scripts predicted.
+- Predicted script name: `prime_generator.py`
+Prime numbers are natural numbers greater than 1 that have no positive divisors other than 1 and themselves. Properties include:
+- Only divisible by 1 and itself.
+- Infinite number of prime numbers.
+- All primes except 2 are odd (2 is the only even prime).
+Prime numbers are natural numbers greater than 1 that have no positive divisors other than 1 and themselves. Properties include being infinite, having unique prime factorization for every integer, and distribution according to the Prime Number Theorem.
+Potential programming languages for the prime number generating algorithm:
+- Python (for simplicity and readability)
+- C++ (for performance)
+- Java (for portability)
+Choosing a filename to represent the work in progress script: 'prime_generator.py' for Python, 'prime_generator.cpp' for C++, or 'PrimeGenerator.java' for Java.
+- The goal is to create an empty script file for writing a prime number generating algorithm.
+- Decided filename: `prime_number_generator.py`
+The goal requires defining a function that checks if a number is prime. This will be part of the prime number generating algorithm, which we can build upon later. We need a filename to save our work-in-progress script. Let's use 'prime_checker.py'.
+The goal is to implement logic for checking divisibility up to the square root of a number for prime number generation. We will need a Python file to accomplish this, let's call it 'prime_checker.py'.
+Working on generating a prime number algorithm, starting with creating a loop to generate and test numbers for primality from 2
+The goal is to create a loop that generates and tests numbers for primality starting from 2. We will need to implement the algorithm in Python, so we'll start by creating a file for this script.
+- Filename for the prime number generating script: `prime_generator.py`
+Filename: prime_generator.py
+Algorithm: Sieve of Eratosthenes for generating prime numbers.
+Filename: prime_generator.py
+The algorithm will need to generate prime numbers and include a mechanism to stop based on user input, such as the number of primes or an upper limit. We'll use Python for implementation. The filename for our work in progress script is `prime_generator.py`.
+Work on creating a prime number generating algorithm and write it to the file "prime_gen.py".
+Filename for script: prime_generator.py
